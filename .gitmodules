@@ -4,3 +4,6 @@
 [submodule "frontend/submodule-vue"]
 	path = frontend/submodule-vue
 	url = https://github.com/adzazueta/submodule-vue.git
+[submodule "backend/submodule-python"]
+	path = backend/submodule-python
+	url = https://github.com/adzazueta/submodule-python.git
