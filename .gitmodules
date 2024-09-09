@@ -1,6 +1,6 @@
 [submodule "frontend/submodule-react"]
 	path = frontend/submodule-react
 	url = https://github.com/adzazueta/submodule-react.git
-[submodule "submodule-vue"]
-	path = submodule-vue
+[submodule "frontend/submodule-vue"]
+	path = frontend/submodule-vue
 	url = https://github.com/adzazueta/submodule-vue.git
